@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6618612640327851961}
   - component: {fileID: 3259041930823504373}
   - component: {fileID: 2905860706038731290}
+  - component: {fileID: 8211146932460234020}
   m_Layer: 0
   m_Name: Activation Energy 1
   m_TagString: Untagged
@@ -133,3 +134,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03b91790ab553ef4daf62279cdda6db4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &8211146932460234020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1226400436668664290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14202edcfdeb724aa29698c6c67b204, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activationEnergy: 10

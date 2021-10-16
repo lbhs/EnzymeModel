@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 2edc00d254fe5e34e9b512e4ebf5ca7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6143939408849189568
+    second: Sucrose_structure_formula_0
+  - first:
+      213: -7864969529344353962
+    second: Sucrose_structure_formula_1
+  - first:
+      213: -640399033072765362
+    second: Sucrose_structure_formula_2
+  - first:
+      213: -7734041121011915687
+    second: Sucrose_structure_formula_3
+  - first:
+      213: -5597588975425887284
+    second: Sucrose_structure_formula_4
+  - first:
+      213: -1651073919310121278
+    second: Sucrose_structure_formula_5
+  - first:
+      213: -6387858097046377783
+    second: Sucrose_structure_formula_6
+  - first:
+      213: 7120137053416953245
+    second: Sucrose_structure_formula_7
+  - first:
+      213: 4183502520758135734
+    second: Sucrose_structure_formula_8
+  - first:
+      213: 8059547028226006255
+    second: Sucrose_structure_formula_9
+  - first:
+      213: 138230839413025538
+    second: Sucrose_structure_formula_10
+  - first:
+      213: 1513154917463211249
+    second: Sucrose_structure_formula_11
+  - first:
+      213: 159778896940203610
+    second: Sucrose_structure_formula_12
+  - first:
+      213: 4372348072339773171
+    second: Sucrose_structure_formula_13
+  - first:
+      213: 1122636001382555055
+    second: Sucrose_structure_formula_14
+  - first:
+      213: 2695878819955235893
+    second: Sucrose_structure_formula_15
+  - first:
+      213: 816389367081662503
+    second: Sucrose_structure_formula_16
+  - first:
+      213: 2269984916328277981
+    second: Sucrose_structure_formula_17
+  - first:
+      213: 8919192869375210749
+    second: Sucrose_structure_formula_18
+  - first:
+      213: 6176408966231042521
+    second: Sucrose_structure_formula_19
+  - first:
+      213: 3841016057655072219
+    second: Sucrose_structure_formula_20
+  - first:
+      213: 8093860901388753005
+    second: Sucrose_structure_formula_21
+  - first:
+      213: 4839441880923271083
+    second: Sucrose_structure_formula_22
+  - first:
+      213: 691676359450695662
+    second: Sucrose_structure_formula_23
+  - first:
+      213: -8767069140617039653
+    second: Sucrose_structure_formula_24
+  - first:
+      213: -4638059849959514599
+    second: Sucrose_structure_formula_25
+  - first:
+      213: -4470170706652208808
+    second: Sucrose_structure_formula_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 498
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cabaf12758a34550800000000000000
+      internalID: 6143939408849189568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 499
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659982a22e30ad290800000000000000
+      internalID: -7864969529344353962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 487
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b13fe878dc17f0800000000000000
+      internalID: -640399033072765362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 498
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95422dfb39a2ba490800000000000000
+      internalID: -7734041121011915687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 499
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3e811fb7e5152b0800000000000000
+      internalID: -5597588975425887284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 397
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6bb95a4053619e0800000000000000
+      internalID: -1651073919310121278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 42
+        width: 427
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa2f1b7e4c957a0800000000000000
+      internalID: -6387858097046377783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 428
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95930d0deecfc260800000000000000
+      internalID: 7120137053416953245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 429
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb6db2a069ce0a30800000000000000
+      internalID: 4183502520758135734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 417
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec57f3225349df60800000000000000
+      internalID: 8059547028226006255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_10
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 428
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ba73057381be100800000000000000
+      internalID: 138230839413025538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 429
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcb781616ecff410800000000000000
+      internalID: 1513154917463211249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_12
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 395
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e79ba6f06a73200800000000000000
+      internalID: 159778896940203610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 174
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f61d26f763bdac30800000000000000
+      internalID: 4372348072339773171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_14
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 190
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd87ace77649f00800000000000000
+      internalID: 1122636001382555055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 44
+        width: 646
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c5eecd08fa96520800000000000000
+      internalID: 2695878819955235893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 175
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728fe4fcdc5645b00800000000000000
+      internalID: 816389367081662503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_17
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 176
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ed37214b908f10800000000000000
+      internalID: 2269984916328277981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_18
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 163
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df47e46a8a657cb70800000000000000
+      internalID: 8919192869375210749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 175
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92db31b3307b550800000000000000
+      internalID: 6176408966231042521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_20
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 176
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd51a1df0c70e4530800000000000000
+      internalID: 3841016057655072219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 70
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6813b05b9b235070800000000000000
+      internalID: 8093860901388753005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_22
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 68
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf649f00c6292340800000000000000
+      internalID: 4839441880923271083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_23
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 69
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee71898fbf3599900800000000000000
+      internalID: 691676359450695662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_24
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 50
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd07b38011d155680800000000000000
+      internalID: -8767069140617039653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 51
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e5924d32d42afb0800000000000000
+      internalID: -4638059849959514599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sucrose_structure_formula_26
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 51
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85163a02d63c6f1c0800000000000000
+      internalID: -4470170706652208808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
