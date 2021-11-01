@@ -22,8 +22,8 @@ public class ActivationEnergyResponse : MonoBehaviour
     public void RespondToActivationEnergy(float providedActivationEnergy)
     {
         if (BondEnergyManager.DetermineWhetherToBreakBond(providedActivationEnergy, requiredActivationEnergy))
-            Debug.Log("Break sucrose bond.");
-        else
-            Debug.Log("Sucrose bond remains intact.");
+            EventManager.bondBreakSuccess();
+        //else
+        //    EventManager.bondBreakFailure();
     }
 }
