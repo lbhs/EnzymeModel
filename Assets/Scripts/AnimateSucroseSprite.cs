@@ -38,8 +38,8 @@ public class AnimateSucroseSprite : MonoBehaviour
         Debug.Log("Animation complete.");
 
         ActivationEnergy activationEnergy = collidedObject?.gameObject.GetComponent<ActivationEnergy>();
-        if (activationEnergy != null)
-            activationEnergyResponse.RespondToActivationEnergy(activationEnergy.activationEnergy);
+        //if (activationEnergy != null)
+        //    activationEnergyResponse.RespondToActivationEnergy(activationEnergy.activationEnergy);
     }
     #endregion
 }
