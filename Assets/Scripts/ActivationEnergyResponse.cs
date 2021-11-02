@@ -23,7 +23,7 @@ public class ActivationEnergyResponse : MonoBehaviour
     {
         if (BondEnergyManager.DetermineWhetherToBreakBond(providedActivationEnergy, requiredActivationEnergy))
             EventManager.bondBreakSuccess();
-        //else
-        //    EventManager.bondBreakFailure();
+        else
+            EventManager.bondBreakFailure();
     }
 }
