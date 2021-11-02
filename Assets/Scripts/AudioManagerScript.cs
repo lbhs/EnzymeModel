@@ -22,12 +22,6 @@ public class AudioManagerScript : MonoBehaviour
         EventManager.bondBreakFailure += PlayFailureSound;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     private void PlaySuccessSound()
     {
         audioSource.clip = successClip;

@@ -19,12 +19,6 @@ public class AnimateSucroseSprite : MonoBehaviour
         activationEnergyResponse = GetComponent<ActivationEnergyResponse>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     private void OnTriggerEnter2D(Collider2D collider2D)
     {
         sucroseRotationAnimator.SetTrigger("Move_Sucrose");

@@ -13,12 +13,6 @@ public class ActivationEnergyResponse : MonoBehaviour
         requiredActivationEnergy = GetComponent<SubstrateEnzymeProperties>().netRequiredActivationEnergy;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void RespondToActivationEnergy(float providedActivationEnergy)
     {
         if (BondEnergyManager.DetermineWhetherToBreakBond(providedActivationEnergy, requiredActivationEnergy))

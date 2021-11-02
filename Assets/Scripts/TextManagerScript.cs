@@ -34,10 +34,4 @@ public class TextManagerScript : MonoBehaviour
         EventManager.bondBreakSuccess -= DisplaySuccessMessage;
         EventManager.bondBreakFailure -= DisplayFailureMessage;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
