@@ -22,4 +22,9 @@ public class SubstrateDisplayScript : MonoBehaviour
         Vector2 targetPosition = new Vector2(2500f, 2500f);
         rigidbody2d.MovePosition(targetPosition);
     }
+
+    private void OnDestroy()
+    {
+        EventManager.bondBreakSuccess -= MoveSpriteOnBondBreakSuccess;
+    }
 }

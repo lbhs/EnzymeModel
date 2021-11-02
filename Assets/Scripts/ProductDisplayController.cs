@@ -19,4 +19,10 @@ public class ProductDisplayController : MonoBehaviour
     {
         spriteRenderer.enabled = true;
     }
+
+    // Avoid memory leaks
+    private void OnDestroy()
+    {
+        EventManager.bondBreakSuccess -= DisplaySprite;
+    }
 }
